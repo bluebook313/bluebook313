@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bluebook313
 - 👀 I’m interested in learning python 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently teaching python
+  
 
 
 <!---
